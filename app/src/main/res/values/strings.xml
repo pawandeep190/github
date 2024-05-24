@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Pawandeep">pawan</string>
+    <string name="click_here">click_here</string>
+    <string name="app">app</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="button">button</string>
+    <string name="Radio">Radio</string>
+    <string name="pawan">Pawan</string>
+    <string name="enter_any_text">Enter Any Text</string>
+    <string name="Submit">Submit</string>
+    <string name="TextView">TextView</string>
+    <string name="which_is_your_favourite_color">Which is your favourite color?</string>
+</resources>
